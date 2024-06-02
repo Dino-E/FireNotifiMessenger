@@ -1,6 +1,7 @@
-# Firebase Push Notifications on Android (FCM + Backend)
+# Firebase Push Notifications on Android + Server Flask Python
 
-Esta es una aplicación de mensajería sencilla que utiliza Firebase Cloud Messaging (FCM) para enviar y recibir notificaciones push. La aplicación está construida en Android Studio utilizando Kotlin y Jetpack Compose, y se conecta a un servidor backend construido con Flask en Python.
+Esta es una aplicación de mensajería sencilla que utiliza Firebase Cloud Messaging (FCM) para enviar y recibir notificaciones push. La aplicación está construida en Android Studio utilizando Kotlin y Jetpack Compose, y se conecta a un servidor backend construido con Flask en Python. Esta aplicación fue creada apartir del video tutorial de Philipp Lackner  "Implement Firebase Push Notifications on Android (FCM+Backend)".
+
 
 ## Características
 
