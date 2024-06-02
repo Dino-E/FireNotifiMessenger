@@ -21,21 +21,25 @@ Esta es una aplicación de mensajería sencilla que utiliza Firebase Cloud Messa
 
 ### Configuración del Backend
 
-1. **Clonar el repositorio**:
+1. **Clonar el repositorio y descomprimir `FireNotifiMessenger.zip`**:
     ```bash
     git clone https://github.com/Dino-E/FireNotifiMessenger.git
     cd firebase-push-notifications
     ```
+    
+2. **Descomprimir `server.zip`**:
+    - El archivo `server.zip` está protegido con contraseña. La contraseña es `tochito`.
+    - Descomprime el archivo utilizando la contraseña proporcionada.
 
-2. **Instalar dependencias de Python**:
+3. **Instalar dependencias de Python**:
     ```bash
     pip install Flask firebase-admin
     ```
 
-3. **Configurar Firebase**:
+4. **Configurar Firebase**:
     - Descarga el archivo `serviceAccountKey.json` desde la consola de Firebase y colócalo en el directorio del servidor.
 
-4. **Ejecutar el servidor**:
+5. **Ejecutar el servidor**:
     ```bash
     python server.py
     ```
