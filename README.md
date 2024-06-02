@@ -22,7 +22,7 @@ Esta es una aplicación de mensajería sencilla que utiliza Firebase Cloud Messa
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/Dino-E/firebase-push-notifications.git
+    git clone https://github.com/Dino-E/FireNotifiMessenger.git
     cd firebase-push-notifications
     ```
 
